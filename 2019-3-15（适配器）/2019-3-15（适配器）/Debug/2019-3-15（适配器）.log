@@ -1,0 +1,30 @@
+﻿生成启动时间为 2019/3/15 21:46:25。
+     1>项目“F:\c语言\培训\2019-3-15（适配器）\2019-3-15（适配器）\2019-3-15（适配器）.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt test.cpp
+         test.cpp
+     1>f:\c语言\培训\2019-3-15（适配器）\2019-3-15（适配器）\priority_queue.h(33): warning C4018: “<”: 有符号/无符号不匹配
+                 f:\c语言\培训\2019-3-15（适配器）\2019-3-15（适配器）\priority_queue.h(31): 编译类 模板 成员函数“void Priority_queue<int,std::vector<int,std::allocator<_Ty>>,std::greater<_Ty>>::Adjustdown(int)”时
+                 with
+                 [
+                     _Ty=int
+                 ]
+                 f:\c语言\培训\2019-3-15（适配器）\2019-3-15（适配器）\priority_queue.h(62): 参见对正在编译的函数 模板 实例化“void Priority_queue<int,std::vector<int,std::allocator<_Ty>>,std::greater<_Ty>>::Adjustdown(int)”的引用
+                 with
+                 [
+                     _Ty=int
+                 ]
+                 f:\c语言\培训\2019-3-15（适配器）\2019-3-15（适配器）\priority_queue.h(84): 参见对正在编译的类 模板 实例化“Priority_queue<int,std::vector<int,std::allocator<_Ty>>,std::greater<_Ty>>”的引用
+                 with
+                 [
+                     _Ty=int
+                 ]
+     1>f:\c语言\培训\2019-3-15（适配器）\2019-3-15（适配器）\priority_queue.h(36): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         F:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\c语言\培训\2019-3-15（适配器）\Debug\2019-3-15（适配器）.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\c语言\培训\2019-3-15（适配器）\Debug\2019-3-15（适配器）.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\c语言\培训\2019-3-15（适配器）\Debug\2019-3-15（适配器）.lib" /MACHINE:X86 Debug\test.obj
+         2019-3-15（适配器）.vcxproj -> F:\c语言\培训\2019-3-15（适配器）\Debug\2019-3-15（适配器）.exe
+     1>已完成生成项目“F:\c语言\培训\2019-3-15（适配器）\2019-3-15（适配器）\2019-3-15（适配器）.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.27
