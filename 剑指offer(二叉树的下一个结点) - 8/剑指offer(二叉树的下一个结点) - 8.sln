@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "剑指offer(二叉树的下一个结点) - 8", "剑指offer(二叉树的下一个结点) - 8\剑指offer(二叉树的下一个结点) - 8.vcxproj", "{8A43CFCE-98A0-4268-A3AD-4B2B1C3A31BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A43CFCE-98A0-4268-A3AD-4B2B1C3A31BC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8A43CFCE-98A0-4268-A3AD-4B2B1C3A31BC}.Debug|Win32.Build.0 = Debug|Win32
+		{8A43CFCE-98A0-4268-A3AD-4B2B1C3A31BC}.Release|Win32.ActiveCfg = Release|Win32
+		{8A43CFCE-98A0-4268-A3AD-4B2B1C3A31BC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
