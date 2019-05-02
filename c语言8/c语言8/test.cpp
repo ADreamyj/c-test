@@ -2,7 +2,7 @@
 
 #include<iostream>
 using namespace std;
-////1.计算二进制中1的个数
+//1.计算二进制中1的个数
 //void num1(int a)
 //{
 //	/*int count = 0;
